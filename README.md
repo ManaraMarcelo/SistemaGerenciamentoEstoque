@@ -38,7 +38,7 @@ Clone o repositório em sua máquina local:
 
 ```bash
 git clone https://github.com/ManaraMarcelo/SistemaGerenciamentoEstoque
-cd SistemaGerenciamentoEstoque/finalProject04
+cd SistemaGerenciamentoEstoque
 ```
 ---Antes de iniciar a compilação, mude o local de armazenamento das listas usuarios.txt e estoqeu.txt dentro das funções 'carregarUsuarios', 'salvarUsuarios', 'salvar_estoque' e 'carregar_estoque', para um local de armazenamento dentro de sua máquina.
 
